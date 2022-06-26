@@ -1,0 +1,1 @@
+avocado:x:1000:1000:feima:/home/avocado:/bin/bash
